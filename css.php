@@ -8,6 +8,9 @@ header('Content-type: text/css; charset: UTF-8');
 header('Cache-Control: must-revalidate');
 header('Expires: '.gmdate('D, d M Y H:i:s',time()+3600).' GMT');
 
+// Include modern theme CSS
+include_once 'themes/default/css.php';
+
 /***********************************************************************************************************************************************/
 /* SET DEFAULTS */
 
