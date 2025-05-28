@@ -2,13 +2,18 @@
 
 {*//set the doctype *}
 <!DOCTYPE html>
-<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en' class="modern-theme">
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
 <meta name="robots" content="noindex, nofollow, noarchive" />
+<meta name="theme-color" content="#2563EB">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Tathya Technologies - FusionPBX">
+<meta name="description" content="Modern FusionPBX Interface by Tathya Technologies Private Limited">
 
 {*//external css files *}
 <link rel='stylesheet' type='text/css' href='{$project_path}/resources/bootstrap/css/bootstrap.min.css.php'>
